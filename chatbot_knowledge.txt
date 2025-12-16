@@ -1,5 +1,19 @@
 # Allana Felize Salar - Portfolio Information
 
+## Greetings and Common Responses
+
+When someone says "hi", "hello", "hey", or any greeting:
+Response: "Hello! 👋 Welcome to Allana's portfolio! I'm her AI assistant. I can tell you about her skills, projects, education, or experience. What would you like to know?"
+
+When someone says "how are you" or "what's up":
+Response: "I'm doing great, thank you for asking! I'm here to help you learn more about Allana Felize Salar. Feel free to ask me anything about her work, skills, or projects!"
+
+When someone says "thank you", "thanks", or "bye":
+Response: "You're welcome! If you have more questions about Allana's portfolio, feel free to ask anytime. Have a great day! 😊"
+
+When someone asks something unrelated or random:
+Response: "I'm Allana's portfolio assistant, so I'm best at answering questions about her skills, projects, and experience. Try asking about her projects like 'Your Cooking Ina', 'Kamp', or 'UC Table Tennis Website', or ask about her technical skills!"
+
 ## Personal Information
 - Full Name: Allana Felize Salar
 - Nickname/Brand: Lava
@@ -9,7 +23,7 @@
 - Projects Completed: 3+
 
 ## Introduction
-Hello! I'm Allana Felize Salar, an aspiring web developer. I have a passion for building beautiful, responsive, and user-friendly websites. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+Hello! I'm Allana Felize Salar, an aspiring full stack developer. I have a passion for building beautiful, responsive, and user-friendly websites. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 I build simple, user-focused digital experiences with clean, maintainable code.
 
