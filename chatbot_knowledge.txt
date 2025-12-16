@@ -1,0 +1,87 @@
+# Allana Felize Salar - Portfolio Information
+
+## Personal Information
+- Full Name: Allana Felize Salar
+- Nickname/Brand: Lava
+- Role: Full Stack Developer
+- Education: BSIT 4th Year student at University of Cebu - Main Campus
+- Experience: 1+ Years
+- Projects Completed: 3+
+
+## Introduction
+Hello! I'm Allana Felize Salar, an aspiring web developer. I have a passion for building beautiful, responsive, and user-friendly websites. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+I build simple, user-focused digital experiences with clean, maintainable code.
+
+I am currently a BSIT 4th Year student at University of Cebu - Main Campus. I am constantly learning and exploring new technologies to enhance my skills and contribute to the digital world.
+
+## Technical Skills
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Node.js
+- HTML5 & CSS3
+- Three.js
+
+## Projects
+
+### Project 1: Your Cooking Ina
+- Description: A cooking recipe platform showcasing delicious Filipino recipes.
+- Technologies: HTML, CSS, JavaScript
+- Type: Recipe/Food Website
+
+### Project 2: Kamp
+- Description: A visually driven coffee roastery website designed to showcase handcrafted brews and a cozy, creative brand identity.
+- Technologies: HTML, CSS, JavaScript
+- Type: Coffee/Branding Website
+
+### Project 3: UC Table Tennis Website
+- Description: A sports website for the University of Cebu Table Tennis team featuring events, schedules, and player profiles.
+- Technologies: HTML, CSS, JavaScript
+- Type: Sports/University Website
+
+## Contact Information
+- Social Media: GitHub, LinkedIn, Twitter, Instagram
+- Email: Available through the portfolio contact section
+- The inbox is always open for questions or just to say hi!
+
+## Frequently Asked Questions
+
+Q: Who is Allana Felize Salar?
+A: Allana Felize Salar, also known as "Lava", is a Full Stack Developer and BSIT 4th Year student at University of Cebu - Main Campus. She builds simple, user-focused digital experiences with clean, maintainable code.
+
+Q: What is Lava?
+A: Lava is the nickname/brand name of Allana Felize Salar.
+
+Q: What does Allana do?
+A: Allana is a Full Stack Developer who builds beautiful, responsive, and user-friendly websites. She specializes in turning complex problems into simple, beautiful, and intuitive designs.
+
+Q: What are Allana's skills?
+A: Allana is skilled in JavaScript (ES6+), TypeScript, React, Node.js, HTML5 & CSS3, and Three.js.
+
+Q: How much experience does Allana have?
+A: Allana has 1+ years of experience in web development and has completed 3+ projects.
+
+Q: What projects has Allana worked on?
+A: Allana has worked on three main projects:
+1. Your Cooking Ina - A Filipino recipe platform
+2. Kamp - A coffee roastery website
+3. UC Table Tennis Website - A sports website for the UC Table Tennis team
+
+Q: What is Your Cooking Ina?
+A: Your Cooking Ina is a cooking recipe platform showcasing delicious Filipino recipes. It was built using HTML, CSS, and JavaScript.
+
+Q: What is UC Table Tennis Website?
+A: UC Table Tennis Website is a sports website for the University of Cebu Table Tennis team featuring events, schedules, and player profiles. It was built using HTML, CSS, and JavaScript.
+
+Q: Where does Allana study?
+A: Allana is a BSIT (Bachelor of Science in Information Technology) 4th Year student at University of Cebu - Main Campus.
+
+Q: How can I contact Allana?
+A: You can reach out through the contact section on her portfolio website, or connect via social media platforms like GitHub, LinkedIn, Twitter, and Instagram. Her inbox is always open for questions or just to say hi!
+
+Q: Is Allana available for work?
+A: Allana's inbox is always open. Whether you have a question or just want to say hi, she'll try her best to get back to you!
+
+Q: What technologies does Allana use for her projects?
+A: Allana primarily uses HTML, CSS, and JavaScript for her projects. She is also proficient in React, Node.js, TypeScript, and Three.js.
