@@ -16,7 +16,7 @@ Response: "I'm Allana's portfolio assistant, so I'm best at answering questions 
 
 ## Personal Information
 - Full Name: Allana Felize Salar
-- Nickname/Brand: Lava
+- Nickname: Lava
 - Role: Full Stack Developer
 - Education: BSIT 4th Year student at University of Cebu - Main Campus
 - Experience: 1+ Years
@@ -30,12 +30,32 @@ I build simple, user-focused digital experiences with clean, maintainable code.
 I am currently a BSIT 4th Year student at University of Cebu - Main Campus. I am constantly learning and exploring new technologies to enhance my skills and contribute to the digital world.
 
 ## Technical Skills
-- JavaScript (ES6+)
-- TypeScript
-- React
-- Node.js
-- HTML5 & CSS3
-- Three.js
+
+Allana is proficient in the following technologies:
+
+1. **JavaScript (ES6+)** - Modern JavaScript for building interactive web applications
+2. **TypeScript** - Type-safe JavaScript for scalable applications
+3. **React** - Frontend library for building user interfaces
+4. **Node.js** - Backend JavaScript runtime for server-side development
+5. **HTML5 & CSS3** - Core web technologies for structure and styling
+6. **Three.js** - 3D graphics library for creating immersive web experiences
+
+### Skills FAQ
+
+Q: What programming languages does Allana know?
+A: Allana is skilled in JavaScript (ES6+) and TypeScript for web development.
+
+Q: What frontend technologies does Allana use?
+A: Allana uses React for building user interfaces, along with HTML5 and CSS3 for structure and styling. She also knows Three.js for 3D graphics.
+
+Q: What backend technologies does Allana know?
+A: Allana uses Node.js for backend/server-side development.
+
+Q: Can Allana build full stack applications?
+A: Yes! Allana is a Full Stack Developer. She can build both frontend (React, HTML, CSS) and backend (Node.js) applications.
+
+Q: Does Allana know 3D development?
+A: Yes, Allana knows Three.js which is used for creating 3D graphics and immersive web experiences.
 
 ## Projects
 
@@ -66,6 +86,12 @@ A: Allana Felize Salar, also known as "Lava", is a Full Stack Developer and BSIT
 
 Q: What is Lava?
 A: Lava is the nickname/brand name of Allana Felize Salar.
+
+Q: Who is Lava?
+A: Lava is Allana Felize Salar! It's her nickname/brand name. She is a Full Stack Developer and BSIT 4th Year student at University of Cebu - Main Campus.
+
+Q: Tell me about Lava
+A: Lava is the nickname of Allana Felize Salar. She's an aspiring Full Stack Developer who builds beautiful, responsive, and user-friendly websites. Lava is currently a BSIT 4th Year student at University of Cebu - Main Campus.
 
 Q: What does Allana do?
 A: Allana is a Full Stack Developer who builds beautiful, responsive, and user-friendly websites. She specializes in turning complex problems into simple, beautiful, and intuitive designs.
