@@ -211,6 +211,66 @@ img {
     max-width: 500px;
 }
 
+/* Profile Image Styles */
+.hero-visual {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-image-wrapper {
+    position: relative;
+    width: 350px;
+    height: 450px;
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    overflow: hidden;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    padding: 4px;
+    box-shadow: 0 20px 60px rgba(109, 40, 217, 0.3), 0 10px 30px rgba(219, 39, 119, 0.2);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    animation: blob-morph 8s ease-in-out infinite;
+}
+
+@keyframes blob-morph {
+
+    0%,
+    100% {
+        border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    }
+
+    25% {
+        border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+    }
+
+    50% {
+        border-radius: 50% 60% 30% 60% / 30% 40% 70% 50%;
+    }
+
+    75% {
+        border-radius: 40% 60% 50% 40% / 60% 50% 40% 60%;
+    }
+}
+
+.profile-image-wrapper:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 30px 80px rgba(109, 40, 217, 0.4), 0 15px 40px rgba(219, 39, 119, 0.3);
+    animation-play-state: paused;
+}
+
+.profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: inherit;
+    filter: grayscale(0%) contrast(1.05);
+    transition: filter 0.4s ease;
+}
+
+.profile-image-wrapper:hover .profile-image {
+    filter: grayscale(0%) contrast(1.1) brightness(1.05);
+}
+
 /* ASCII Dots Animation Container */
 .ascii-container {
     position: relative;
@@ -513,6 +573,11 @@ footer {
 
     .hero-visual {
         order: 1;
+    }
+
+    .profile-image-wrapper {
+        width: 280px;
+        height: 360px;
     }
 
     .hero-content h1 {
